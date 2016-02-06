@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://ndjones.github.io
 title: Nick Jones
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Research is going digital
+description: Thoughts on changes to research practice, policy, and platforms
 paginate: 5
